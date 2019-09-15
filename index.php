@@ -53,7 +53,7 @@
         <a href="#" id="link4">
           <i class="fas fa-envelope    "></i>
         </a>
-        <a href="index2.html">
+        <a href="index2.php">
           <i
             class="fas fa-arrows-alt-v    "
             title="Switch to Vertical View"
@@ -84,31 +84,31 @@
 
     <script>
       $(function() {
-        $(".konten").load("welcome.html");
+        $(".konten").load("welcome.php");
 
         $("#link1").click(function() {
-          $(".konten").load("welcome.html");
+          $(".konten").load("welcome.php");
           $("#link1").addClass("active");
           $("#link2").removeClass("active");
           $("#link3").removeClass("active");
           $("#link4").removeClass("active");
         });
         $("#link2").click(function() {
-          $(".konten").load("profile.html");
+          $(".konten").load("profile.php");
           $("#link2").addClass("active");
           $("#link1").removeClass("active");
           $("#link3").removeClass("active");
           $("#link4").removeClass("active");
         });
         $("#link3").click(function() {
-          $(".konten").load("gallery.html");
+          $(".konten").load("gallery.php");
           $("#link4").removeClass("active");
           $("#link2").removeClass("active");
           $("#link1").removeClass("active");
           $("#link3").addClass("active");
         });
         $("#link4").click(function() {
-          $(".konten").load("contact.html");
+          $(".konten").load("contact.php");
           $("#link4").addClass("active");
           $("#link2").removeClass("active");
           $("#link1").removeClass("active");

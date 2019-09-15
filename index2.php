@@ -31,7 +31,7 @@
         <div class="navbar">
             <span class="judul">Gopla</span>
             <div class="navbar__section">
-                <a href="index.html">
+                <a href="index.php">
                     <i class="fas fa-arrows-alt-h   " title="Switch to Horizontal View"></i>
                 </a>
             </div>
