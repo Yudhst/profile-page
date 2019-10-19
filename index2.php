@@ -121,7 +121,7 @@
                                         src="assets/img/wa-hover.png" class="sosmed-icon"></a>
                                 <a href="mailto:naufalyudhistira12@gmail.com" target="_blank"><img
                                         src="assets/img/gm-hover.png" class="sosmed-icon"></a>
-                                <a href="https://github.com/Yudhst/" target="_blank"><img
+                                <a href="https://github.com/gopla/" target="_blank"><img
                                         src="assets/img/git-hover.png" class="sosmed-icon"></a>
                             </p>
                         </td>
